@@ -21,25 +21,36 @@
 
 ### `01` — ABOUT
 
-```ts
-const tumo = {
-  location:  "Johannesburg, South Africa 🇿🇦",
-  building:  ["payments & commerce", "agentic AI systems", "data products"],
-  companies: {
-    founder:   "Tumoolo Tech",              // software for small business & schools
-    coFounder: ["Social Assembly", "FrameFlow"],
-    freelance: "555 Media Hub / 555 Tech & Innovation",
-  },
-  studying:  "WeThinkCode_ — graduating December 2026",
-  teaching:  "I mentor devs; two of mine placed 6th & 7th behind my 5th at Entelect Hack<IT>",
-  believes:  "great software is tested, reviewed, and handed over properly",
-};
-```
+<div align="center">
 
-- 🧾 I build things that touch **real money** — PayShap/EFT checkout, an idempotent **double-entry ledger** on the MTN MoMo APIs, and on-chain parametric crop insurance that pays out by itself.
-- 🤖 I build **agentic AI that stays accountable** — LangGraph pipelines with human-in-the-loop gates, provider-neutral model seams, and evidence behind every verdict.
-- 📊 I compete in data science to keep myself honest, then bring what I learn back into the products.
-- 🧑🏾‍🏫 I teach what I learn: four years of high-school mathematics, and now developers.
+### I build software that touches real money — and AI that can be held accountable.
+
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Johannesburg-0a0a0a?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Founder-Tumoolo_Tech-F25C05?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Co--founder-Social_Assembly_+_FrameFlow-F25C05?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Freelance-555_Media-f5f5f5?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/WeThinkCode__-Dec_2026-f5f5f5?style=flat-square&labelColor=0a0a0a"/>
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">💳<br/><b>PAYMENTS</b></td>
+<td width="75%">PayShap/EFT checkout · an idempotent <b>double-entry ledger</b> on MTN MoMo · crop insurance that pays itself out on-chain</td>
+</tr>
+<tr>
+<td align="center">🤖<br/><b>AGENTIC AI</b></td>
+<td>LangGraph pipelines · human-in-the-loop gates · evidence behind every verdict</td>
+</tr>
+<tr>
+<td align="center">📈<br/><b>DATA</b></td>
+<td>18M transaction rows forecast for Nedbank · 1st of 40 in Google's Johannesburg challenge</td>
+</tr>
+<tr>
+<td align="center">🧑🏾‍🏫<br/><b>TEACHING</b></td>
+<td>Four years of high-school maths, now developers — two finished right behind me at Entelect</td>
+</tr>
+</table>
 
 ---
 
