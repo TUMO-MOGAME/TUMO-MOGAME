@@ -218,7 +218,7 @@ Also building **[Social Assembly](https://socialassemblyhq.com)** — AI coachin
 <a href="https://github.com/TUMO-MOGAME/Solana-Based-Agricultural-Marketplace"><img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=TUMO-MOGAME&repo=Solana-Based-Agricultural-Marketplace&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=F25C05&text_color=f5f5f5"/></a>
 
 <a href="https://github.com/TUMO-MOGAME/crema"><img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=TUMO-MOGAME&repo=crema&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=F25C05&text_color=f5f5f5"/></a>
-<a href="https://github.com/TUMO-MOGAME/SLQ-DATA-WAREHOUSE-PROJECT"><img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=TUMO-MOGAME&repo=SLQ-DATA-WAREHOUSE-PROJECT&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=F25C05&text_color=f5f5f5"/></a>
+<a href="https://github.com/TUMO-MOGAME/SQL-DATA-WAREHOUSE-PROJECT"><img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=TUMO-MOGAME&repo=SQL-DATA-WAREHOUSE-PROJECT&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=F25C05&text_color=f5f5f5"/></a>
 
 <br/><br/>
 
