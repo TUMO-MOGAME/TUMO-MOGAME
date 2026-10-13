@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:141414,100:F25C05&height=210&section=header&text=TUMO%20MOGAME&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%C2%B7%20DATA%20SCIENTIST%20%C2%B7%20BUILDER&descSize=16&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=F25C05&center=true&vCenter=true&width=860&lines=BUILD+BOLDLY;Payments%2C+agentic+AI+and+data+products;1st+place+%E2%80%94+Google+Johannesburg+Data+Challenge;Best+API+Integration+%E2%80%94+MTN+MoMo+API+Hackathon;Founder+%40+Tumoolo+Tech+%C2%B7+Co-founder+%40+Social+Assembly" alt="BUILD BOLDLY"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=F25C05&center=true&vCenter=true&width=1000&height=45&lines=BUILD+BOLDLY;Payments%2C+agentic+AI+and+data+products;1st+place+-+Google+Johannesburg+Data+Challenge;Best+API+Integration+-+MTN+MoMo+API+Hackathon;Founder+%40+Tumoolo+Tech;Co-founder+%40+Social+Assembly+%2B+FrameFlow" alt="BUILD BOLDLY"/>
 
 <br/>
 
@@ -14,7 +14,6 @@
 <a href="https://www.linkedin.com/in/tumo-mogame-2001281a7/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>
 <a href="mailto:tumomogame9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/></a>
 <a href="https://github.com/tumoolo-tech"><img src="https://img.shields.io/badge/TUMOOLO_TECH-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/></a>
-<img src="https://komarev.com/ghpvc/?username=TUMO-MOGAME&style=for-the-badge&color=F25C05&label=VIEWS&labelColor=0a0a0a"/>
 
 </div>
 
@@ -173,10 +172,10 @@ Also building **[Social Assembly](https://socialassemblyhq.com)** — AI coachin
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **CLOUD · DEVOPS · QUALITY**
 
@@ -197,7 +196,7 @@ Also building **[Social Assembly](https://socialassemblyhq.com)** — AI coachin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TUMO-MOGAME&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&count_private=true&include_all_commits=true&icon_color=F25C05&title_color=F25C05&text_color=f5f5f5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TUMO-MOGAME&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&count_private=true&icon_color=F25C05&title_color=F25C05&text_color=f5f5f5"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=TUMO-MOGAME&theme=dark&hide_border=true&background=0a0a0a&ring=F25C05&fire=F25C05&currStreakLabel=F25C05&sideLabels=f5f5f5&dates=9e9e9e"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUMO-MOGAME&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&langs_count=8&title_color=F25C05&text_color=f5f5f5"/>
