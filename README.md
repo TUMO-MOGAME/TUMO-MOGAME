@@ -11,7 +11,7 @@
 <br/><br/>
 
 <a href="https://www.tumomogame.com"><img src="https://img.shields.io/badge/PORTFOLIO-tumomogame.com-F25C05?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a"/></a>
-<a href="https://www.linkedin.com/in/tumo-mogame-2001281a7/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>
+<a href="https://www.linkedin.com/in/tumomogame/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>
 <a href="mailto:tumomogame9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/></a>
 <a href="https://github.com/tumoolo-tech"><img src="https://img.shields.io/badge/TUMOOLO_TECH-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/></a>
 
@@ -236,7 +236,7 @@ Open to **software engineering** and **data** roles, and to founders who need so
 
 <a href="mailto:tumomogame9@gmail.com"><img src="https://img.shields.io/badge/LET'S_CONNECT-F25C05?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/></a>
 <a href="https://www.tumomogame.com"><img src="https://img.shields.io/badge/SEE_MY_WORK-f5f5f5?style=for-the-badge&logo=googlechrome&logoColor=0a0a0a&labelColor=0a0a0a"/></a>
-<a href="https://www.linkedin.com/in/tumo-mogame-2001281a7/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>
+<a href="https://www.linkedin.com/in/tumomogame/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>
 
 <br/><br/>
 
